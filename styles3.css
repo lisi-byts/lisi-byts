@@ -1,0 +1,206 @@
+body{
+    background-color: rgb(255, 229, 229);
+    background-size: 1530px;
+    color:rgb(20, 8, 15);
+    margin: 0%;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.marca {
+    background-color: rgb(255, 167, 100);
+    width: 25%;
+    margin: 2%;
+    padding: 1%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid black;
+}
+
+.marca2 {
+    background-color:  rgb(255, 167, 100);
+    width: 25%;
+    margin: 2%;
+    padding: 1%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid black;
+}
+
+
+img{
+    width: 40%;
+    top:0%;
+}
+
+
+.foto{
+    width: 100%;
+    margin: 1%;
+}
+
+
+.texto{
+    top: 0%;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    text-align: justify;
+}
+
+#boton {
+    margin: 2%;
+    padding: 1%;
+    margin-left: 45%;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#boton:hover {
+    background-color: black;
+    color:white;
+}
+  
+#boton:active {
+    background-color: grey;
+    box-shadow: 0 5px #2d2c2c;
+    transform: translateY(4px);
+    color: white;
+}
+
+#boton1 {
+    margin: 2%;
+    padding: 1%;
+    margin-left: 10%;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+
+
+#boton1:hover {
+    background-color: black;
+    color:white;
+}
+  
+#boton1:active {
+    background-color: grey;
+    box-shadow: 0 5px #2d2c2c;
+    transform: translateY(4px);
+    color: white;
+}
+
+#boton2 { 
+    margin: 2%;
+    margin-left: 20%;
+    padding: 1%;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#boton2:hover {
+    background-color: black;
+    color:white;
+}
+  
+#boton2:active {
+    background-color: grey;
+    box-shadow: 0 5px #2d2c2c;
+    transform: translateY(4px);
+    color: white;
+}
+
+#boton3 {
+    margin: 2%;
+    padding: 1%;
+    margin-left: 23%;
+    display: inline-block;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#boton3:hover {
+    background-color: black;
+    color:white;
+}
+  
+#boton3:active {
+    background-color: grey;
+    box-shadow: 0 5px #2d2c2c;
+    transform: translateY(4px);
+    color: white;
+}
+
+#boton4 {
+    margin: 2%;
+    padding: 1%;
+    margin-top: 10%;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 19px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+#boton4:hover {
+    background-color: black;
+    color:white;
+}
+  
+#boton4:active {
+    background-color: grey;
+    box-shadow: 0 5px #2d2c2c;
+    transform: translateY(4px);
+    color: white;
+}
